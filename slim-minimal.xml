@@ -3,15 +3,12 @@
 
   <remote  name="github"
            fetch=".." />
-
   <default revision="main"
            remote="github"
            sync-j="4" />
 
   <project name="SlimRoms14/build_make" />
-  <project name="SlimRoms14/device_google_redfin" />
   <project name="SlimRoms14/frameworks_base" />
-  <project name="SlimRoms14/frameworks_slim" />
   <project name="SlimRoms14/manifest" />
   <project name="SlimRoms14/packages_apps_Settings" />
   <project name="SlimRoms14/vendor_slim" />
